@@ -1,2 +1,11 @@
-# data-analytics-portfolio
-Colección de proyectos de Data Analytics que integran Power BI para visualización interactiva y Python para análisis de datos, manipulación con Pandas, y machine learning con scikit-learn. El objetivo es mostrar habilidades en ETL, visualización de KPIs, análisis exploratorio, predicciones y storytelling con datos.
+# 👋 Hola, soy Efren Cherres
+
+📊 Analista de Datos | 📈 Ciencia de Datos | 💻 Power BI, Python, SQL  
+
+Bienvenido a mi portafolio. Aquí encontrarás proyectos en los que he trabajado, organizados por temas.
+
+## 🔥 Habilidades
+- Python (Pandas, Matplotlib, Scikit-learn)
+- SQL y Bases de Datos
+- Power BI y Tableau
+- Análisis de Negocios
